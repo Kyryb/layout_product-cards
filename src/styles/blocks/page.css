@@ -1,0 +1,9 @@
+/* #region page */
+.page {
+  font-family: Roboto, Helvetica, sans-serif;
+}
+  
+.page__content {
+  margin: 0;
+}
+/* #endregion */
